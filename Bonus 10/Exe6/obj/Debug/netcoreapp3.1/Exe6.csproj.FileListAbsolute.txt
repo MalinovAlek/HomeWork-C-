@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\bin\Debug\netcoreapp3.1\Exe6.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe6\obj\Debug\netcoreapp3.1\Exe6.genruntimeconfig.cache

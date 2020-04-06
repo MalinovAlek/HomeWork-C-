@@ -1,0 +1,12 @@
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.exe
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.deps.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.runtimeconfig.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\bin\Debug\netcoreapp3.1\AlphabetCharacter.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\AlphabetCharacter\obj\Debug\netcoreapp3.1\AlphabetCharacter.genruntimeconfig.cache

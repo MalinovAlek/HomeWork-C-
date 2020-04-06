@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.exe
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.deps.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.runtimeconfig.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\bin\Debug\netcoreapp3.1\SubStringInString.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.genruntimeconfig.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\SubStringInString\obj\Debug\netcoreapp3.1\SubStringInString.csprojAssemblyReference.cache

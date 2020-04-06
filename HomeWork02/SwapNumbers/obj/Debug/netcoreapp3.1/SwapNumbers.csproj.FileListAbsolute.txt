@@ -1,0 +1,11 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb

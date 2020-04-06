@@ -1,0 +1,12 @@
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.exe
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.deps.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.runtimeconfig.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\bin\Debug\netcoreapp3.1\RasingInteger.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\RasingInteger\obj\Debug\netcoreapp3.1\RasingInteger.genruntimeconfig.cache

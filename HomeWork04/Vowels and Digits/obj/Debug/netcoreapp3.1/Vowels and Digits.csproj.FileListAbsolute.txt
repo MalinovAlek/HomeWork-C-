@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.exe
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.deps.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.runtimeconfig.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\bin\Debug\netcoreapp3.1\Vowels and Digits.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\Vowels and Digits\obj\Debug\netcoreapp3.1\Vowels and Digits.genruntimeconfig.cache

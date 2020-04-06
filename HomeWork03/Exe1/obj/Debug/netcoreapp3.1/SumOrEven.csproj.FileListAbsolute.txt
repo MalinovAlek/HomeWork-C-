@@ -1,0 +1,12 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\bin\Debug\netcoreapp3.1\SumOrEven.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork03\Exe1\obj\Debug\netcoreapp3.1\SumOrEven.genruntimeconfig.cache

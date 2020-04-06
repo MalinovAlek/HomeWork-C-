@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.exe
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.deps.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.runtimeconfig.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\bin\Debug\netcoreapp3.1\LargestValue.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.dll
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.pdb
+C:\Users\Aleksandar Malinov\source\repos\Substring\LargestValue\obj\Debug\netcoreapp3.1\LargestValue.genruntimeconfig.cache

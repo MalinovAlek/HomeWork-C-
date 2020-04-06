@@ -1,0 +1,12 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\bin\Debug\netcoreapp3.1\Exe10.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\Extra\Exe10\obj\Debug\netcoreapp3.1\Exe10.genruntimeconfig.cache

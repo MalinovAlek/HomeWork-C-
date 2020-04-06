@@ -1,0 +1,11 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork2\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.pdb
