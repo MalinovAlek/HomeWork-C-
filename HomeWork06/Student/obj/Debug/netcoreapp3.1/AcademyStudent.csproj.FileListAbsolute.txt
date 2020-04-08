@@ -1,0 +1,16 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\AcademyStudent.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.csproj.CopyComplete
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\Student\obj\Debug\netcoreapp3.1\AcademyStudent.genruntimeconfig.cache

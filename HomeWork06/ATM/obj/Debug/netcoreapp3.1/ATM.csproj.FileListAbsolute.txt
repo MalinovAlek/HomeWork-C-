@@ -1,0 +1,16 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CopyComplete
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork06\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache
