@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
