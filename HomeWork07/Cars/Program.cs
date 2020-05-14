@@ -8,9 +8,9 @@ namespace Cars
         static void Main(string[] args)
         {
 
-            ElectricCar tesla = new ElectricCar("Tesla", "Model S", 4, 262, Consumption.Economic,  2000,200);
-            ElectricCar bmw = new ElectricCar("BMW", "I3", 4, 242, Consumption.Economic, 1000,500);
-            ElectricCar chevrolet = new ElectricCar("Chevrolet", "I3", 4, 242, Consumption.Economic, 1458,1458);
+            ElectricCar tesla = new ElectricCar("Tesla", "Model S", 4, 262, Consumption.Economic,  2000);
+            ElectricCar bmw = new ElectricCar("BMW", "I3", 4, 242, Consumption.Economic, 1000);
+            ElectricCar chevrolet = new ElectricCar("Chevrolet", "I3", 4, 242, Consumption.Economic, 1458);
             tesla.Drive(120);
             bmw.Drive(250000);
             chevrolet.Drive(250);

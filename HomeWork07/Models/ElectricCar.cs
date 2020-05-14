@@ -10,12 +10,11 @@ namespace Models
         public double BatteryUsage { get; set; }
 
         public ElectricCar(string brand, string model, int doors, int topSpeed, Consumption consumption, 
-        int batteryCapacity, int batteryUsage)
+        int batteryCapacity)
             :base(brand,model,doors,topSpeed,consumption)
         {
             EngineType = EngineType.Electric;
             BatteryCapacity = batteryCapacity;
-            BatteryUsage = batteryUsage;
         }
         public void Drive(int distance)
         {

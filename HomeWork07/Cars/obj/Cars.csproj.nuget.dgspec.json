@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Cars\\Cars.csproj": {}
+    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Cars\\Cars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Cars\\Cars.csproj": {
+    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Cars\\Cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Cars\\Cars.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Cars\\Cars.csproj",
         "projectName": "Cars",
-        "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Cars\\Cars.csproj",
+        "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Cars\\Cars.csproj",
         "packagesPath": "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Cars\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Cars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleksandar Malinov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\Models.csproj"
+              "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\Models.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\Models.csproj": {
+    "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork07\\Models\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\HomeWork07\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleksandar Malinov\\AppData\\Roaming\\NuGet\\NuGet.Config",
