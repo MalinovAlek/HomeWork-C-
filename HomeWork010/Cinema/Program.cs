@@ -8,16 +8,17 @@ namespace Cinema
     {
         static void Main(string[] args)
         {
-            List<Cinema> allCinemas = CinemaHelper.GetAllCinemas();
-            Console.WriteLine("Chose a Cinema:");
-            for (int i = 0; i < allCinemas.Count; i++)
-            {
-                Console.WriteLine($"{i + 1}.{allCinemas[i].Name}");
-            }
-            string choseCinemaCR = Console.ReadLine();
 
             try
             {
+                List<Cinema> allCinemas = CinemaHelper.GetAllCinemas();
+                Console.WriteLine("Chose a Cinema:");
+                for (int i = 0; i < allCinemas.Count; i++)
+                {
+                    Console.WriteLine($"{i + 1}.{allCinemas[i].Name}");
+                }
+                string choseCinemaCR = Console.ReadLine();
+
                 int choseCinema = Int32.Parse(choseCinemaCR);
                 if (choseCinema > allCinemas.Count || choseCinema < 1)
                 {
@@ -89,11 +90,7 @@ namespace Cinema
             {
                 Console.WriteLine($"You can't enter text");
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
 
-            }
         }
 
         public static List<Movie> GetGenreList(Cinema userCinema)
@@ -161,10 +158,6 @@ namespace Cinema
             catch (FormatException)
             {
                 Console.WriteLine($"A number must be entered!");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
             }
         }
     }

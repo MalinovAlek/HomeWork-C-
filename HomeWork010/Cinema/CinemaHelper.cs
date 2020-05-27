@@ -7,7 +7,7 @@ namespace Cinema
     {
         public static List<Cinema> GetAllCinemas()
         {
-           
+            
                 Movie movie1 = new Movie("Lord of the rings", Genre.Action, 5);
                 Movie movie2 = new Movie("Psycho", Genre.Horror, 4);
                 Movie movie3 = new Movie("The Shining", Genre.Horror, 4);
@@ -21,8 +21,6 @@ namespace Cinema
                 Movie movie11 = new Movie("Evil Spawn ", Genre.Horror, 2);
                 Movie movie12 = new Movie("The Avengers  ", Genre.Action, 5);
 
-                List<Movie> allMovies = new List<Movie>() { movie1, movie2, movie3, movie4, movie5, movie6, movie7, movie8, movie9, movie10, movie11, movie12 };
-
                 Cinema cineplex = new Cinema("Cineplex", 8);
                 cineplex.ListOfMovies = new List<Movie>() { movie1, movie2, movie3, movie4, movie5, movie6, movie7, movie9, movie11, movie12 };
 
@@ -31,14 +29,10 @@ namespace Cinema
 
                 Cinema cinOM = new Cinema("Cinematheque of Macedonia", 3);
                 cinOM.ListOfMovies = new List<Movie>() { movie1, movie2, movie3, movie4, movie5, movie6, movie7, movie8, movie9, movie10 };
-
+       
                 List<Cinema> allCinemas = new List<Cinema>() { cineplex, mileniium, cinOM };
 
-
-
                 return allCinemas;
-
-
         }
     }
 }
