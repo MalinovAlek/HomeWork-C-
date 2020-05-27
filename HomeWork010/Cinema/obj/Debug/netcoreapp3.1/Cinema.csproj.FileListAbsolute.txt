@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\Homework\C#\HomeWork010\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache
