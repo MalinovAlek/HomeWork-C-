@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vZSAjUhtvyKRTCpr96rBaspPQNB9YB3dj56sJixhm0r8AeuZTOv483wh3KaWVpJmue8BLswamrvRiMkCPkAN6w==",
+  "dgSpecHash": "gI7/cc9u8SmaCQSUNnMDWTdYaSbJO9y9MxJ0rpR7DQ73TjK5679g7HtC9mGYm5iOtWF24K50rVTQ3jbVmryf8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Homework\\C#\\HomeWork09\\Models\\Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,8 +8,10 @@ namespace Models
     {
         public static List<Product> GetAllProducts()
         {
+
             return new List<Product>()
           {
+
                 new Product() { Name =  "Keyboard", Price = 100, Category = Category.ItEquipment},
                 new Product() { Name =  "Mouse", Price = 150, Category = Category.ItEquipment},
                 new Product() { Name =  "Headphones", Price = 80, Category = Category.ItEquipment},
@@ -30,15 +32,16 @@ namespace Models
                 new Product() { Name =  "LG LG420MQ8", Price = 32000, Category = Category.TV},
                 new Product() { Name =  "SONY Plasma", Price = 18000, Category = Category.TV},
                 new Product() { Name =  "SONY RW78OS", Price = 179999, Category = Category.TV},
-                new Product() { Name =  "Samsung Oval", Price = 247999, Category = Category.TV}
+                new Product() { Name =  "Samsung Oval", Price = 247999, Category = Category.TV},
           };
 {
           
 
 
         };
-        }
 
+        }
+       
 
         }
 }
