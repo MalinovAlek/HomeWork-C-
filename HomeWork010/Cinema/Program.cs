@@ -35,7 +35,7 @@ namespace Cinema
 
             catch (FormatException)
             {
-                Console.WriteLine($"You must enter proper number ");
+                Console.WriteLine($"You can't enter text ");
             }
             catch (Exception ex)
             {
@@ -77,19 +77,14 @@ namespace Cinema
             }
 
             string userMovieCR = Console.ReadLine();
-            try
-            {
+            
                 int userMovieId = Int32.Parse(userMovieCR);
                 if (userMovieId > userCinema.ListOfMovies.Count || userMovieId < 1)
                 {
                     throw new Exception($"You must a number from 1 to {userCinema.ListOfMovies.Count}");
                 }
                 userCinema.MoviePlaying(userCinema.ListOfMovies.ElementAt(userMovieId - 1));
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine($"You can't enter text");
-            }
+     
 
         }
 
@@ -99,8 +94,7 @@ namespace Cinema
             string userGenreCR = Console.ReadLine();
             List<Movie> listByGenre = new List<Movie>();
 
-            try
-            {
+            
                 int userGenre = Int32.Parse(userGenreCR);
                 //if (userGenre < 1 || userGenre > 5) 
                 //{
@@ -128,11 +122,8 @@ namespace Cinema
                         
                 }
                 
-            }
-            catch (FormatException)
-            {
-                throw new Exception($"You can't enter text");
-            }
+            
+
 
 
             return listByGenre;
@@ -146,19 +137,15 @@ namespace Cinema
                 Console.WriteLine($"{i+1}.{genreList[i].Title}");
             }
             string userMovieCR = Console.ReadLine();
-            try
-            {
+            
                 int userMovieId = Int32.Parse(userMovieCR);
                 if (userMovieId > genreList.Count || userMovieId < 1)
                 {
                     throw new Exception($"You must enter a number from 1 to {genreList.Count}");
                 }
                 userCinema.MoviePlaying(genreList.ElementAt(userMovieId - 1));
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine($"A number must be entered!");
-            }
+            
+
         }
     }
 }
