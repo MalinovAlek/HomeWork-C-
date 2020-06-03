@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xx7glea544n970KECOJ1WTKUONQHDJDe6xzMKgjSvUFeB/OZKrw7TtMWVdVnCm0u404SRj5pGpQpF9SGb4r5IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe1\\Exe1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

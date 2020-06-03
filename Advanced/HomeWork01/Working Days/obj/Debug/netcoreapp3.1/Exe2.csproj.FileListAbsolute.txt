@@ -1,0 +1,13 @@
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.exe
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.deps.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.runtimeconfig.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.runtimeconfig.dev.json
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\bin\Debug\netcoreapp3.1\Exe2.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.csprojAssemblyReference.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.AssemblyInfo.cs
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.dll
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.pdb
+C:\Users\Aleksandar Malinov\Desktop\Seavus\04. C#\Advanced\Class01Vezbi\Exe2\obj\Debug\netcoreapp3.1\Exe2.genruntimeconfig.cache
