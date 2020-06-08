@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe2\\Exe2.csproj",
-      "projectName": "Exe2",
-      "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe2\\Exe2.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe2\\Working Dates.csproj",
+      "projectName": "Working Dates",
+      "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe2\\Working Dates.csproj",
       "packagesPath": "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe2\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandar Malinov\\AppData\\Roaming\\NuGet\\NuGet.Config",

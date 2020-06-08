@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Exe3
+namespace RockPaperScissors
 {
     static class Scores
     {

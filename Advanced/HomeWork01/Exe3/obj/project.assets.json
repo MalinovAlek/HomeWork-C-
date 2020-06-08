@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe3\\Exe3.csproj",
-      "projectName": "Exe3",
-      "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe3\\Exe3.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe3\\Rock Paper Scissors.csproj",
+      "projectName": "Rock Paper Scissors",
+      "projectPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe3\\Rock Paper Scissors.csproj",
       "packagesPath": "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe3\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandar Malinov\\AppData\\Roaming\\NuGet\\NuGet.Config",

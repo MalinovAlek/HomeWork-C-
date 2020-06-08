@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZzyqmZCFLNzFpRyrfghaURAgzwLd+HcHKUegzcvkf8m/6FwaDnxhPWMOpHJubHmEFoTK0qXHcFZOLGglEt1QQ==",
+  "dgSpecHash": "xd2K8pq8kkYa82p8mkahBBy3JT7lTtk+yyz5bm21g6IsDEFv/7L+eV4smo0w7sSitTXh5NzqFoSNV46bv36RpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\04. C#\\Advanced\\Class01Vezbi\\Exe2\\Exe2.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandar Malinov\\Desktop\\Seavus\\Git\\C# HomeWork\\HomeWork-C-\\Advanced\\HomeWork01\\Exe2\\Working Dates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandar Malinov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

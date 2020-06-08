@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Exe1
+namespace NameInText
 {
     class Program
     {

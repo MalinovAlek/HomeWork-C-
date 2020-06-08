@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exe2
+namespace WorkingDates
 {
     class Program
     {
